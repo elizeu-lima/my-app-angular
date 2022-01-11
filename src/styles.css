@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+.red{
+  padding: 20px;
+  background-color: mistyrose;
+  border: 1px solid red;
+}
+.greem{
+  padding: 20px;
+  background-color: rgb(101, 240, 59);
+  border: 1px solid green;
+}
